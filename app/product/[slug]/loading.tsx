@@ -1,0 +1,1 @@
+export default function Loading(){return <main><div className="page-shell inner-page"><div className="skeleton-title"><i/><i/><i/></div><div className="skeleton-grid">{Array.from({length:6}).map((_,i)=><div className="skeleton-card" key={i}><div/><span/><span/><span/></div>)}</div></div></main>}

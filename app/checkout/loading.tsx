@@ -1,0 +1,1 @@
+export default function Loading(){return <main><div className="checkout-page skeleton-checkout"><div><div className="skeleton-title"><i/><i/><i/></div><div className="skeleton-panel"/><div className="skeleton-panel"/></div><div className="skeleton-panel"/></div></main>}
